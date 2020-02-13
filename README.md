@@ -24,6 +24,13 @@ Custom Changes
 
 * Set the default dimensions of the program to be bigger
 
+I also changed the default foreground and background, which is done in a
+separate file in `~/.Xresources`:
+
+```
+Sxiv.background: #000000
+Sxiv.foreground: #ffffff
+```
 
 Screenshots
 -----------
