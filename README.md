@@ -19,6 +19,11 @@ Features
 * Load all frames from GIF files and play GIF animations
 * Display image information in status bar
 
+Custom Changes
+--------------
+
+* Set the default dimensions of the program to be bigger
+
 
 Screenshots
 -----------
